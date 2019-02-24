@@ -17,7 +17,7 @@ The first 10 is the x-coordinate of the first line; The second 10 is the X-coord
 2. What are two ways of increasing the spacing between rings?
 
 The first way is to change the 10 in i=i+10 which is in the loop body.
-The secong way is to change the i in 1 + (x.length - i).
+The second way is to change the i in 1 + (x.length - i).
 
 3. How can you make the ellipse trail longer?
 
